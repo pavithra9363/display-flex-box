@@ -1,0 +1,73 @@
+
+    
+
+ .all{
+     display: flex; 
+    flex-wrap: wrap;
+    width: 100%; 
+ }
+
+
+ .flex1{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column; 
+    height: 700px;
+    width: 20%;
+    background-color:lightgray;
+}
+ .flex2{
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;    
+                      /* 80% la 100_% kuduthatha full varum */
+    height: 400px;
+}
+  .flex3{
+      display: flex;
+    flex-wrap: wrap; 
+    flex-direction: row; 
+    background-color: green;
+    height: 100px;
+    width: 100%; 
+     
+
+}
+  .three{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width: 100%;
+ }  
+
+
+   .two{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 80%;
+     }
+ .artical{
+    display: flex;
+    flex-wrap: wrap;
+    height: 400px;
+    background-color:bisque;
+
+}
+.footer{
+    display: flex;
+    flex-wrap: wrap;
+    height: 100px;
+    background-color: green;
+}
+.aside{
+     display: flex;
+     flex-wrap: wrap; 
+    background-color:lightgray;
+    width: 20%;
+    height: 600px;
+
+}
+
+  
+
